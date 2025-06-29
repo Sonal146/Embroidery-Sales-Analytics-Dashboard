@@ -46,7 +46,7 @@ Sales teams often lack clear, data-driven insights into regional performance, ma
 └── 2017 Budgets (budget comparison data)
 ```
 
-## 🛠️ Technical Architecture
+##  Technical Architecture
 
 ### Data Analytics Workflow
 ```
@@ -90,7 +90,7 @@ Sales-Analytics-Project/
 └── README.md
 ```
 
-## 🔍 Detailed Analysis Process
+##  Detailed Analysis Process
 
 ### 1. Data Understanding & Preparation
 - **Entity Relationship Analysis:** Mapped relationships between sales orders, customers, products, and regions
@@ -161,7 +161,7 @@ Sales-Analytics-Project/
 - **Customer Concentration:** Top 10 customers contribute 30% of revenue
 - **Segmentation:** Clear distinction between high-value and volume customers
 
-## 🚀 Business Recommendations
+##  Business Recommendations
 
 ### Immediate Actions
 1. **Channel Optimization:** Invest more in wholesale channel expansion
@@ -175,7 +175,7 @@ Sales-Analytics-Project/
 3. **Product Portfolio:** Analyze bottom-performing products for discontinuation
 4. **Regional Strategies:** Customize approaches for different geographic markets
 
-## 🔧 Technical Implementation
+##  Technical Implementation
 
 ### Data Processing Pipeline
 ```python
@@ -194,7 +194,7 @@ Sales-Analytics-Project/
 - **Interactive Features:** Slicers, drill-through, bookmarks
 - **Design:** Professional layout with company branding
 
-## 📈 Model Performance & Validation
+##  Model Performance & Validation
 
 ### Data Quality Metrics
 - **Completeness:** 98% of records have complete core fields
@@ -206,7 +206,7 @@ Sales-Analytics-Project/
 - **Historical Comparison:** Trends align with known business patterns
 - **Actionability:** All insights tied to specific business recommendations
 
-## 🔄 Future Enhancements
+##  Future Enhancements
 
 ### Phase 2 Developments
 - **Predictive Analytics:** Sales forecasting models
@@ -220,7 +220,7 @@ Sales-Analytics-Project/
 - **Security Implementation:** Row-level security for different user roles
 - **API Integration:** Direct connection to business systems
 
-## 🚦 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.7+
@@ -255,7 +255,7 @@ jupyter notebook notebooks/
 **LinkedIn:** http://www.linkedin.com/in/sonal-mk
 **Email:** Ksonal055@gmai.com
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
